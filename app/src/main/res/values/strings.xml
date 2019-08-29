@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stur_App</string>
+    <string name="dummy_text">laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</string>
+    <string name="splash_punch">Instantly meet new friends</string>
+    <string name="title_activity_messenger">Chats</string>
+    <string name="tab_text_1">Chat</string>
+    <string name="tab_text_2">Friends</string>
+    <string name="tab_text_3">Status</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="internal_storage">Internal storage</string>
+</resources>
